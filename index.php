@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php 
-        echo " je suis un génie"
+        echo "je suis une andouille"
         ?>
     </body>
 </html>
